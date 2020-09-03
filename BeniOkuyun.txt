@@ -1,0 +1,17 @@
+﻿# Veri analizi ödevinin 1. ve 6. soruları Python programlama dili kullanılarak PyCharm IDE üzerinde kodlanmıştır.
+
+# Geriye kalan 2. 3. 4. ve 5. sorular MySQL veri tabanı kullanılarak sql queryleri yazılarak çözülmüştür.
+
+# Soruların çözümleri için yazılan kodlar içerisinde, varsayımlar ve çözüm adımları yorum satırları yazılarak
+  ayrıntılı olarak açıklanmıştır.
+
+
+Zorlanılan Kısımlar:
+
+# 1. ve 6 sorularda yazılan Python kodları içerisinde Pandas kütüphanesi kullanılmıştır.
+  Bu kütüphane ve içerisinde kullanılan regular expressions hakkında ayrıntılı bilgi sahibi olmadığından,
+  stackoverflow ve kendi sitesindeki dökümentasyonlardan ve google üzerinde yapılan araştırmalar yardımıyla
+  sorular çözülmüştür.
+
+# MySQL kullanılarak çözülen diğer sorular içerisinde kullanılan substring, update, having gibi fonksiyonlar
+  ve regular expression kullanımlarının nasıl kullanılacağı internet üzerinden araştırılmıştır.
